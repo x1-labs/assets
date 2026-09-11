@@ -1,0 +1,7 @@
+{
+  "name": "NVIDIA xStock",
+  "symbol": "NVDA.X",
+  "description": "Bridged NVIDIA xStock on X1",
+  "image": "https://raw.githubusercontent.com/x1-labs/assets/main/tokens/nvda-x/logo.png",
+  "terms": "https://www.backedassets.fi/legal-documentation"
+}

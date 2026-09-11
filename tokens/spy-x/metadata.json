@@ -1,0 +1,7 @@
+{
+  "name": "SP500 xStock",
+  "symbol": "SPY.X",
+  "description": "Bridged SP500 xStock on X1",
+  "image": "https://raw.githubusercontent.com/x1-labs/assets/main/tokens/spy-x/logo.png",
+  "terms": "https://www.backedassets.fi/legal-documentation"
+}
