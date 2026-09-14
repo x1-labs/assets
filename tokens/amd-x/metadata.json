@@ -1,0 +1,7 @@
+{
+  "name": "AMD xStock",
+  "symbol": "AMD.X",
+  "description": "Bridged AMD xStock on X1",
+  "image": "https://raw.githubusercontent.com/x1-labs/assets/main/tokens/amd-x/logo.png",
+  "terms": "https://www.backedassets.fi/legal-documentation"
+}

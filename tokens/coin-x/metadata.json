@@ -1,0 +1,7 @@
+{
+  "name": "Coinbase xStock",
+  "symbol": "COIN.X",
+  "description": "Bridged Coinbase xStock on X1",
+  "image": "https://raw.githubusercontent.com/x1-labs/assets/main/tokens/coin-x/logo.png",
+  "terms": "https://www.backedassets.fi/legal-documentation"
+}
