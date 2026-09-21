@@ -1,0 +1,7 @@
+{
+  "name": "Apple xStock",
+  "symbol": "AAPL.X",
+  "description": "Bridged Apple xStock on X1",
+  "image": "https://raw.githubusercontent.com/x1-labs/assets/main/tokens/aapl-x/logo.png",
+  "terms": "https://www.backedassets.fi/legal-documentation"
+}
